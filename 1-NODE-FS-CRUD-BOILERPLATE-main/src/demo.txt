@@ -1,1 +1,0 @@
-New file is created with write method
