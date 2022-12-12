@@ -10,6 +10,3 @@ function leftRotate(d, arr) {
 }
 console.log(leftRotate(5, [1, 2, 3, 4, 5]));
 
-function simplifiedChessEngine(whites, blacks, moves) {
-     
-}
